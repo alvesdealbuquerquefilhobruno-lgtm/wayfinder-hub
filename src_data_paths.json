@@ -1,0 +1,80 @@
+[
+  {
+    "id": "photopea",
+    "title": "Photopea",
+    "category": "Tools",
+    "description": "A browser-based image editor for PSD, XD, Sketch, and common image files.",
+    "url": "https://www.photopea.com/",
+    "steps": [
+      "Open Photopea in your browser.",
+      "Choose File → Open to load an image, or select New Project.",
+      "Edit your image and use File → Export As to save it."
+    ],
+    "tags": ["image editor", "design", "photoshop alternative"]
+  },
+  {
+    "id": "khan-academy",
+    "title": "Khan Academy",
+    "category": "Learning",
+    "description": "Free lessons and practice in subjects including math, science, and computing.",
+    "url": "https://www.khanacademy.org/",
+    "steps": [
+      "Open Khan Academy.",
+      "Browse a subject or use the search field to find a topic.",
+      "Choose a course or lesson to start learning."
+    ],
+    "tags": ["courses", "math", "science", "education"]
+  },
+  {
+    "id": "openstreetmap",
+    "title": "OpenStreetMap",
+    "category": "Maps / Places",
+    "description": "A collaborative, open map for exploring places and planning routes.",
+    "url": "https://www.openstreetmap.org/",
+    "steps": [
+      "Open OpenStreetMap.",
+      "Search for a place or address.",
+      "Select Directions and enter your starting point."
+    ],
+    "tags": ["map", "directions", "places", "navigation"]
+  },
+  {
+    "id": "itchio",
+    "title": "itch.io",
+    "category": "Entertainment",
+    "description": "Discover independent games, tabletop games, and creative projects.",
+    "url": "https://itch.io/",
+    "steps": [
+      "Open itch.io.",
+      "Browse a category or search for a game.",
+      "Open a game's page to view details and available downloads."
+    ],
+    "tags": ["games", "indie", "entertainment"]
+  },
+  {
+    "id": "remove-bg",
+    "title": "remove.bg",
+    "category": "Utilities",
+    "description": "Remove the background from an image with an online tool.",
+    "url": "https://www.remove.bg/",
+    "steps": [
+      "Open remove.bg.",
+      "Upload or select an image.",
+      "Review the result and download it if it meets your needs."
+    ],
+    "tags": ["image", "background", "utility"]
+  },
+  {
+    "id": "archive",
+    "title": "Internet Archive",
+    "category": "Learning",
+    "description": "Explore a digital library of books, movies, music, websites, and more.",
+    "url": "https://archive.org/",
+    "steps": [
+      "Open the Internet Archive.",
+      "Search for a title, subject, or creator.",
+      "Open a result to see its available formats and access options."
+    ],
+    "tags": ["books", "archive", "research", "history"]
+  }
+]
